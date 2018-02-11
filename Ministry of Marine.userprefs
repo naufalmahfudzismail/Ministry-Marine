@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MiniGames\EnemyMiniGames.cs">
+    <Files>
+      <File FileName="Assets\Scripts\WorldScript\Data.cs" Line="4" Column="30" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Narration1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlBulletEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldScript\TextManager.cs" Line="117" Column="1" />
+      <File FileName="Assets\Scripts\EnemyAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldScript\MapManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldScript\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldScript\FollowCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldScript\ButtonManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldScript\TargetShip.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Escape.cs" Line="17" Column="2" />
+      <File FileName="Assets\Scripts\MiniGames\EnemySpawn.cs" Line="80" Column="3" />
+      <File FileName="Assets\Scripts\MiniGames\EnemyMiniGames.cs" Line="21" Column="36" />
+      <File FileName="Assets\Scripts\WorldScript\LevelManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
